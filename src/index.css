@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+.ml-btn-see {
+    margin-left: 600px;
+}
