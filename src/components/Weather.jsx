@@ -20,7 +20,7 @@ const Weather = () => {
   const options = {
     method: "GET",
     headers: {
-      "X-RapidAPI-Key": "efc0889489mshf838c711146e8dap11d8f7jsnd4d7439eb583",
+      "X-RapidAPI-Key": "Your-API-KEY",
       "X-RapidAPI-Host": "weatherapi-com.p.rapidapi.com",
     },
   };
